@@ -5,14 +5,16 @@ int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers;
     
-    cout << "Enter two integers: ";
-    cin >> firstNumber >> secondNumber;
+    cout << "Enter First Number: ";
+    cin >> firstNumber;
+    cout << "Enter First Number: ";
+    cin >> secondNumber;
 
     // sum of two numbers in stored in variable sumOfTwoNumbers
     sumOfTwoNumbers = firstNumber + secondNumber;
 
     // Prints sum 
-    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;     
-
+    //cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers << endl;     
+    cout << "Sum = " << sumOfTwoNumbers << endl;
     return 0;
 }

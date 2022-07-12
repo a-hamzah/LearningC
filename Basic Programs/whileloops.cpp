@@ -15,14 +15,15 @@ int main(){
         cout << "index is not 1" << endl;
     }
     */
-    /*
+    
     int index = 0;
     while (index <= 9){
         cout << index << endl;
         index++;
     }
-    */
+    
     //----------------do while loop
+    /*
     int random = 6;
     do{
         cout << random << endl;
@@ -33,5 +34,6 @@ int main(){
         cout << block << endl;
         block--;
     } while(block >= 5);
+    */
     return 0;
 }

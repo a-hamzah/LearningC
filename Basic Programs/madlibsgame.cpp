@@ -20,7 +20,7 @@ int main(){
     cout << "Roses are " << color << endl;
     cout << pluralNoun << " are Blue" << endl;
     cout << "Lake is " << adjective << endl;
-   
+    cout << "Movie is " << celebrity << endl;
    
 
 

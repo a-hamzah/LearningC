@@ -1,8 +1,8 @@
-#include"bits/stdc++.h"
+#include"bits/stdc++.h" //general header used in coding contests 
 using namespace std;
 
 //function overloading
-
+/*
 class psycho{
     public:
     void fun(){
@@ -15,7 +15,7 @@ class psycho{
     }
 
     void fun(double x){
-        cout << "I'm a function with argument" << endl;
+        cout << "I'm a function with double argument" << endl;
     }
 };
 
@@ -25,3 +25,5 @@ int32_t main(){
     pink.fun(5);
     pink.fun(3.5);
 }
+*/
+
