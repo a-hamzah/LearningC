@@ -3,10 +3,8 @@
 using namespace std;
 
 int main(){
-    int a,b,c;
-    cin >>a>>b>>c;
-    cout << "a = "<< a << endl;
-    cout << "b = "<< b << endl;
-    cout << "c = "<< c << endl;
+    cout << "Hello, this is Hamza. "<< endl;
+    cout << "This is my first C++ Program. "<< endl;
+    cout << "Happy Learning!";
     return 0;
 }
