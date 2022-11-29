@@ -2,7 +2,7 @@
 using namespace std;
 
 //function overloading
-/*
+
 class psycho{
     public:
     void fun(){
@@ -25,5 +25,5 @@ int32_t main(){
     pink.fun(5);
     pink.fun(3.5);
 }
-*/
+
 
