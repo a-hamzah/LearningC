@@ -12,7 +12,7 @@ int main()
 
     cout << "Compiler Paths are OK!, Start Programming...\n"
          << endl;
-    cout << "Checking Git Agai\n\n";
+    cout << "Checking Git Again Now\n\n";
 
     return 0;
 }
